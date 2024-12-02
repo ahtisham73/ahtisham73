@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center"> 👋 Hi, I'm Muhammad Ahtisham </h1>
 
-- 📖 I'm a Electrical Engineering Student at NUST,Pakistan.
+- 📖 I'm a Electrical Engineering Student at National University of Science and Technology (NUST) ,Pakistan.
 
 - ⚡ Passionate about employing reinforcement learning to communication , embedded systems & iot and using ML for advancement in Renewable Energy systems.ヾ(≧ ▽ ≦)ゝ
   
