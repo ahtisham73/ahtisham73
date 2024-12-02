@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center"> 👋 Hi, I'm Muhammad Ahtisham </h1>
 
 - 📖 I'm a Electrical Engineering Student at National University of Science and Technology (NUST) ,Pakistan.
