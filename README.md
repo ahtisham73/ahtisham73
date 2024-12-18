@@ -2,7 +2,7 @@
 
 - 📖 I'm a Electrical Engineering Student at National University of Science and Technology (NUST) ,Pakistan.
 
-- ⚡ Passionate about employing reinforcement learning to communication , embedded systems & iot and using ML for advancement in Renewable Energy systems.ヾ(≧ ▽ ≦)ゝ
+- ⚡ Passionate about employing reinforcement learning to communication and robotics , using ML for advancement in embedded systems , I.O.T and Renewable Energy systems.ヾ(≧ ▽ ≦)ゝ
   
 - ✨ Leveraging my research and expertise, I am dedicated to fostering innovation and enhancing global connectivity (●'◡'●)
   
