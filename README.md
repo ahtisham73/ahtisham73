@@ -26,7 +26,7 @@
 </p>
 
 ## Contact Details
-<a href="mailto:ahtisham7340700@google.com?Subject=Hello%20User"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/> %
+<a href="mailto:ahtisham7340700@google.com?Subject=Hello%20User"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>
 <!---
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/muhd-umer/)
