@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Muhammad Ahtisham </h1>
+<h1 align="center"> 👋 Hi, I'm Muhammad</h1>
 
 - 📖 I'm an Electrical Engineering Student at the National University of Science and Technology (NUST), Pakistan.
 
